@@ -1,4 +1,4 @@
-# Hello, I'm Igor Karkhalev 👋
+# Hello, I'm Karkhalev Igor ⁂
 
 **Backend Developer** | C++ Specialist | MIPT Computer Science
 
